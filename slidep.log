@@ -1,0 +1,4 @@
+=== boot pid=32780 ts=2026-10-19 10:00:59.629 cwd=d:\workbuddy\2026-10-19-09-47-25 argv=C:\Users\yanxi\.workbuddy\binaries\node\versions\22.22.2-6\node_modules\@tencent\slidep\dist\index.js inspect C:/Users/yanxi/Desktop/通用型农业机器人平台/美化版/WB-51通用型农业机器人平台产品信息.pptx --out C:/Users/yanxi/AppData/Local/Temp/wb51.IGTb0c ===
+[2026-10-19 10:00:59.627] [INFO ] [pid=32780] [server-url] baseUrl=http://localhost:39099 source=portFile(C:\Users\yanxi\.workbuddy\tencent-docs-engine.port)
+=== boot pid=2212 ts=2026-10-19 10:01:02.227 cwd=d:\workbuddy\2026-10-19-09-47-25 argv=C:\Users\yanxi\.workbuddy\binaries\node\versions\22.22.2-6\node_modules\@tencent\slidep\dist\index.js inspect C:/Users/yanxi/Desktop/通用型农业机器人平台/美化版/WB-300通用型农业机器人平台产品信息.pptx --out C:/Users/yanxi/AppData/Local/Temp/wb300.kE7NW4 ===
+[2026-10-19 10:01:02.224] [INFO ] [pid=2212] [server-url] baseUrl=http://localhost:39099 source=portFile(C:\Users\yanxi\.workbuddy\tencent-docs-engine.port)
